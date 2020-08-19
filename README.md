@@ -20,4 +20,4 @@ A QGIS plugin a built with an interface using Qt: [https://github.com/staffordsm
 An example of a long python script to automate a workflow, using Fiona, Geopandas, Matplotlib, Rasterio, and Shapely:
 [https://github.com/staffordsmith83/pointgen_area_of_interest/blob/master/pointgen_monitoring.py](https://github.com/staffordsmith83/pointgen_area_of_interest/blob/master/pointgen_monitoring.py)
 
-A report using LiDAR data to derive shoreline/dune system profiles, and analyse the destruction of dune systems due to storm surge: [https://github.com/staffordsmith83/LiDAR_shoreline_erosion](https://github.com/staffordsmith83/LiDAR_shoreline_erosion)
+A report using LiDAR data to derive shoreline/dune system profiles, and analyse the destruction of dune systems due to storm surge: [https://github.com/staffordsmith83/LiDAR_shoreline_erosion](https://staffordsmith83.github.io/LiDAR_shoreline_erosion/Report%20-%20Shoreline%20Erosion%20Hurricane%20Sandy%20(LiDAR).pdf)
