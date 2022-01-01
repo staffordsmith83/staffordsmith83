@@ -2,18 +2,15 @@
 ### Stafford Smith - Geospatial Developer and Field Technology Consultant 👋
 
 - 🔭 I’m currently working on an intertidal zone access app for researchers
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on LiDAR projects
+- 🌱 I’m currently learning Google Cloud Professional Architect Cert
+- 👯 I’m looking to collaborate on 3D Mapping projects
 - 🤔 I’m looking for help with UI/UX design
 - 💬 Ask me about archaeology and great stories from remote area fieldwork with Indigenous people
 - 📫 How to reach me: staffordsmith83@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I drove a truck around Australia powered by waste veggie oil!
 
-
-An OpenLayers based webmap project with reclassification, WMS layers, and device location: [https://staffordsmith83.github.io/trafficMap/](https://staffordsmith83.github.io/trafficMap/)
-
-My gists - see a bunch of basic Java examples here as I learn a new language: [https://gist.github.com/staffordsmith83](https://gist.github.com/staffordsmith83)
+An Angular and Geoserver app to show subermerge of the intertidal zone over time: [https://github.com/staffordsmith83/tide-walker](https://github.com/staffordsmith83/tide-walker)
 
 A QGIS plugin a built with an interface using Qt: [https://github.com/staffordsmith83/QGIS-layer-toggler-multi](https://github.com/staffordsmith83/QGIS-layer-toggler-multi)
 
