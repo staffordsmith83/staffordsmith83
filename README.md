@@ -1,10 +1,10 @@
 
 ### Stafford Smith - Geospatial Developer and Field Technology Consultant 👋
 
-- 🔭 I’m currently working on an intertidal zone access app for researchers
-- 🌱 I’m currently learning Google Cloud Professional Architect Cert
+- 🔭 I’m currently working on an intertidal zone access app for researchers with Angular, OpenLayers, and Geoserver
+- 🌱 I’m currently learning React and MobX
 - 👯 I’m looking to collaborate on 3D Mapping projects
-- 🤔 I’m looking for help with UI/UX design
+- 🤔 I’m looking for help with Cloud Optimised Geotiffs and client-side reclassification
 - 💬 Ask me about archaeology and great stories from remote area fieldwork with Indigenous people
 - 📫 How to reach me: staffordsmith83@gmail.com
 - 😄 Pronouns: He/His
