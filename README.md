@@ -12,6 +12,9 @@
 
 An Angular and Geoserver app to show subermerge of the intertidal zone over time: [https://github.com/staffordsmith83/tide-walker](https://github.com/staffordsmith83/tide-walker)
 
+The same application written with React using cloud hosted COGs and client side reclassification - check out how much better the performance is!
+https://github.com/staffordsmith83/tidewalker2-react
+
 A QGIS plugin a built with an interface using Qt: [https://github.com/staffordsmith83/QGIS-layer-toggler-multi](https://github.com/staffordsmith83/QGIS-layer-toggler-multi)
 
 An example of a long python script to automate a workflow, using Fiona, Geopandas, Matplotlib, Rasterio, and Shapely:
