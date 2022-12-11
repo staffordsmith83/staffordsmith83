@@ -2,10 +2,10 @@
 ### Stafford Smith - Geospatial Developer and Field Technology Consultant 👋
 
 - 🔭 I’m currently working on an intertidal zone access app for researchers with Angular, OpenLayers, and Geoserver
-- 🌱 I’m currently learning React and MobX
-- 👯 I’m looking to collaborate on 3D Mapping projects
+- 🌱 I’m currently learning 3D tiles and Cesium
+- 👯 I’m looking to collaborate on Regenerative Farming and Land Management projects
 - 🤔 I’m looking for help with Cloud Optimised Geotiffs and client-side reclassification
-- 💬 Ask me about archaeology and great stories from remote area fieldwork with Indigenous people
+- 💬 Ask me about anything web mapping!
 - 📫 How to reach me: staffordsmith83@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I drove a truck around Australia powered by waste veggie oil!
