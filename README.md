@@ -1,10 +1,10 @@
 
 ### Stafford Smith - Geospatial Developer and Field Technology Consultant 👋
 
-- 🔭 I’m currently working on an intertidal zone access app for researchers with Angular, OpenLayers, and Geoserver
+- 🔭 I’m currently working on an intertidal zone access app for researchers with React, Leaflet, and client side reclassification of Cloud Optimised Geotiffs - [Tidewalker](https://www.tidewalker.com.au/)
 - 🌱 I’m currently learning 3D tiles and Cesium
 - 👯 I’m looking to collaborate on Regenerative Farming and Land Management projects
-- 🤔 I’m looking for help with Cloud Optimised Geotiffs and client-side reclassification
+- 🤔 I’m looking for help with UI design
 - 💬 Ask me about anything web mapping!
 - 📫 How to reach me: staffordsmith83@gmail.com
 - 😄 Pronouns: He/His
